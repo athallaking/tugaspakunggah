@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin-left: 850px;
+}
